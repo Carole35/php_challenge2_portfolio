@@ -1,0 +1,96 @@
+p {
+	font-size: 15px;
+	color:black;
+}
+
+.pres {
+	width:180px;
+	height:250px;
+	float:left;
+	margin-top:5px;
+	border-radius:10px;
+}
+
+#bloc1 {
+	width:610px;
+	height:250px;
+	background-color:#F08080;
+	float:left;
+	margin-top:5px;
+	margin-left:10px;
+	border-radius:10px;
+}
+
+
+
+#bloc2 {
+	width:800px;
+	height:150px;
+	background-color:#708090;
+	float:left;
+	margin-top:5px;
+	border-radius:10px;
+}
+
+#bloc3 {
+	width:800px;
+	height:260px;
+	background-color:#90EE90;
+	float:left;
+	margin-top:5px;
+	border-radius:10px;
+}
+
+#bloc4 {
+	width:800px;
+	height:400px;
+	background-color:#20B2AA;
+	float:left;
+	margin-top:5px;
+	border-radius:10px;
+}
+
+#bloc5 {
+	width:395px;
+	height:440px;
+	background-color:#DA70D6;
+	float:left;
+	margin-top:5px;
+	border-radius:10px;
+}
+
+#bloc6 {
+	width:395px;
+	height:440px;
+	background-color:#F5DEB3;
+	float:left;
+	margin-top:5px;
+	margin-left:10px;
+	border-radius:10px;
+}
+
+.lire1 {
+	width:60px;
+	height:70px;
+}
+
+.lire2 {
+	width:60px;
+	height:70px;
+}
+
+.lire3 {
+	width:60px;
+	height:70px;
+}
+
+.serie {
+	width:300px;
+	height:60px;
+}
+
+.voyage {
+	width:300px;
+	height:80px;
+	margin-left:5px;
+}
